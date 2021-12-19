@@ -1,0 +1,15 @@
+D:\git\Algorithm\ipv4Validate\bin\Debug\net6.0\ipv4Validate.exe
+D:\git\Algorithm\ipv4Validate\bin\Debug\net6.0\ipv4Validate.deps.json
+D:\git\Algorithm\ipv4Validate\bin\Debug\net6.0\ipv4Validate.runtimeconfig.json
+D:\git\Algorithm\ipv4Validate\bin\Debug\net6.0\ipv4Validate.dll
+D:\git\Algorithm\ipv4Validate\bin\Debug\net6.0\ref\ipv4Validate.dll
+D:\git\Algorithm\ipv4Validate\bin\Debug\net6.0\ipv4Validate.pdb
+D:\git\Algorithm\ipv4Validate\obj\Debug\net6.0\ipv4Validate.csproj.AssemblyReference.cache
+D:\git\Algorithm\ipv4Validate\obj\Debug\net6.0\ipv4Validate.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\Algorithm\ipv4Validate\obj\Debug\net6.0\ipv4Validate.AssemblyInfoInputs.cache
+D:\git\Algorithm\ipv4Validate\obj\Debug\net6.0\ipv4Validate.AssemblyInfo.cs
+D:\git\Algorithm\ipv4Validate\obj\Debug\net6.0\ipv4Validate.csproj.CoreCompileInputs.cache
+D:\git\Algorithm\ipv4Validate\obj\Debug\net6.0\ipv4Validate.dll
+D:\git\Algorithm\ipv4Validate\obj\Debug\net6.0\ref\ipv4Validate.dll
+D:\git\Algorithm\ipv4Validate\obj\Debug\net6.0\ipv4Validate.pdb
+D:\git\Algorithm\ipv4Validate\obj\Debug\net6.0\ipv4Validate.genruntimeconfig.cache
