@@ -1,0 +1,15 @@
+D:\git\Algorithm\yangHui\obj\Debug\net6.0\yangHui.csproj.AssemblyReference.cache
+D:\git\Algorithm\yangHui\obj\Debug\net6.0\yangHui.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\Algorithm\yangHui\obj\Debug\net6.0\yangHui.AssemblyInfoInputs.cache
+D:\git\Algorithm\yangHui\obj\Debug\net6.0\yangHui.AssemblyInfo.cs
+D:\git\Algorithm\yangHui\obj\Debug\net6.0\yangHui.csproj.CoreCompileInputs.cache
+D:\git\Algorithm\yangHui\bin\Debug\net6.0\yangHui.exe
+D:\git\Algorithm\yangHui\bin\Debug\net6.0\yangHui.deps.json
+D:\git\Algorithm\yangHui\bin\Debug\net6.0\yangHui.runtimeconfig.json
+D:\git\Algorithm\yangHui\bin\Debug\net6.0\yangHui.dll
+D:\git\Algorithm\yangHui\bin\Debug\net6.0\ref\yangHui.dll
+D:\git\Algorithm\yangHui\bin\Debug\net6.0\yangHui.pdb
+D:\git\Algorithm\yangHui\obj\Debug\net6.0\yangHui.dll
+D:\git\Algorithm\yangHui\obj\Debug\net6.0\ref\yangHui.dll
+D:\git\Algorithm\yangHui\obj\Debug\net6.0\yangHui.pdb
+D:\git\Algorithm\yangHui\obj\Debug\net6.0\yangHui.genruntimeconfig.cache
