@@ -1,0 +1,15 @@
+D:\git\Algorithm\guessNumber\obj\Debug\net6.0\guessNumber.csproj.AssemblyReference.cache
+D:\git\Algorithm\guessNumber\obj\Debug\net6.0\guessNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\Algorithm\guessNumber\obj\Debug\net6.0\guessNumber.AssemblyInfoInputs.cache
+D:\git\Algorithm\guessNumber\obj\Debug\net6.0\guessNumber.AssemblyInfo.cs
+D:\git\Algorithm\guessNumber\obj\Debug\net6.0\guessNumber.csproj.CoreCompileInputs.cache
+D:\git\Algorithm\guessNumber\bin\Debug\net6.0\guessNumber.exe
+D:\git\Algorithm\guessNumber\bin\Debug\net6.0\guessNumber.deps.json
+D:\git\Algorithm\guessNumber\bin\Debug\net6.0\guessNumber.runtimeconfig.json
+D:\git\Algorithm\guessNumber\bin\Debug\net6.0\guessNumber.dll
+D:\git\Algorithm\guessNumber\bin\Debug\net6.0\ref\guessNumber.dll
+D:\git\Algorithm\guessNumber\bin\Debug\net6.0\guessNumber.pdb
+D:\git\Algorithm\guessNumber\obj\Debug\net6.0\guessNumber.dll
+D:\git\Algorithm\guessNumber\obj\Debug\net6.0\ref\guessNumber.dll
+D:\git\Algorithm\guessNumber\obj\Debug\net6.0\guessNumber.pdb
+D:\git\Algorithm\guessNumber\obj\Debug\net6.0\guessNumber.genruntimeconfig.cache
