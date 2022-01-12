@@ -1,0 +1,15 @@
+D:\git\Algorithm\test\OSDetection\obj\Debug\net6.0\OSDetection.csproj.AssemblyReference.cache
+D:\git\Algorithm\test\OSDetection\obj\Debug\net6.0\OSDetection.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\Algorithm\test\OSDetection\obj\Debug\net6.0\OSDetection.AssemblyInfoInputs.cache
+D:\git\Algorithm\test\OSDetection\obj\Debug\net6.0\OSDetection.AssemblyInfo.cs
+D:\git\Algorithm\test\OSDetection\obj\Debug\net6.0\OSDetection.csproj.CoreCompileInputs.cache
+D:\git\Algorithm\test\OSDetection\bin\Debug\net6.0\OSDetection.exe
+D:\git\Algorithm\test\OSDetection\bin\Debug\net6.0\OSDetection.deps.json
+D:\git\Algorithm\test\OSDetection\bin\Debug\net6.0\OSDetection.runtimeconfig.json
+D:\git\Algorithm\test\OSDetection\bin\Debug\net6.0\OSDetection.dll
+D:\git\Algorithm\test\OSDetection\bin\Debug\net6.0\ref\OSDetection.dll
+D:\git\Algorithm\test\OSDetection\bin\Debug\net6.0\OSDetection.pdb
+D:\git\Algorithm\test\OSDetection\obj\Debug\net6.0\OSDetection.dll
+D:\git\Algorithm\test\OSDetection\obj\Debug\net6.0\ref\OSDetection.dll
+D:\git\Algorithm\test\OSDetection\obj\Debug\net6.0\OSDetection.pdb
+D:\git\Algorithm\test\OSDetection\obj\Debug\net6.0\OSDetection.genruntimeconfig.cache
