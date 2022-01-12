@@ -1,0 +1,15 @@
+D:\git\Algorithm\test\reflectionTest\bin\Debug\net6.0\reflectionTest.exe
+D:\git\Algorithm\test\reflectionTest\bin\Debug\net6.0\reflectionTest.deps.json
+D:\git\Algorithm\test\reflectionTest\bin\Debug\net6.0\reflectionTest.runtimeconfig.json
+D:\git\Algorithm\test\reflectionTest\bin\Debug\net6.0\reflectionTest.dll
+D:\git\Algorithm\test\reflectionTest\bin\Debug\net6.0\ref\reflectionTest.dll
+D:\git\Algorithm\test\reflectionTest\bin\Debug\net6.0\reflectionTest.pdb
+D:\git\Algorithm\test\reflectionTest\obj\Debug\net6.0\reflectionTest.csproj.AssemblyReference.cache
+D:\git\Algorithm\test\reflectionTest\obj\Debug\net6.0\reflectionTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\Algorithm\test\reflectionTest\obj\Debug\net6.0\reflectionTest.AssemblyInfoInputs.cache
+D:\git\Algorithm\test\reflectionTest\obj\Debug\net6.0\reflectionTest.AssemblyInfo.cs
+D:\git\Algorithm\test\reflectionTest\obj\Debug\net6.0\reflectionTest.csproj.CoreCompileInputs.cache
+D:\git\Algorithm\test\reflectionTest\obj\Debug\net6.0\reflectionTest.dll
+D:\git\Algorithm\test\reflectionTest\obj\Debug\net6.0\ref\reflectionTest.dll
+D:\git\Algorithm\test\reflectionTest\obj\Debug\net6.0\reflectionTest.pdb
+D:\git\Algorithm\test\reflectionTest\obj\Debug\net6.0\reflectionTest.genruntimeconfig.cache
