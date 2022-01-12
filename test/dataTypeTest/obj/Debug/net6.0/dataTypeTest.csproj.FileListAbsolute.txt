@@ -1,0 +1,15 @@
+D:\git\Algorithm\test\dataTypeTest\obj\Debug\net6.0\dataTypeTest.csproj.AssemblyReference.cache
+D:\git\Algorithm\test\dataTypeTest\obj\Debug\net6.0\dataTypeTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\Algorithm\test\dataTypeTest\obj\Debug\net6.0\dataTypeTest.AssemblyInfoInputs.cache
+D:\git\Algorithm\test\dataTypeTest\obj\Debug\net6.0\dataTypeTest.AssemblyInfo.cs
+D:\git\Algorithm\test\dataTypeTest\obj\Debug\net6.0\dataTypeTest.csproj.CoreCompileInputs.cache
+D:\git\Algorithm\test\dataTypeTest\bin\Debug\net6.0\dataTypeTest.exe
+D:\git\Algorithm\test\dataTypeTest\bin\Debug\net6.0\dataTypeTest.deps.json
+D:\git\Algorithm\test\dataTypeTest\bin\Debug\net6.0\dataTypeTest.runtimeconfig.json
+D:\git\Algorithm\test\dataTypeTest\bin\Debug\net6.0\dataTypeTest.dll
+D:\git\Algorithm\test\dataTypeTest\bin\Debug\net6.0\ref\dataTypeTest.dll
+D:\git\Algorithm\test\dataTypeTest\bin\Debug\net6.0\dataTypeTest.pdb
+D:\git\Algorithm\test\dataTypeTest\obj\Debug\net6.0\dataTypeTest.dll
+D:\git\Algorithm\test\dataTypeTest\obj\Debug\net6.0\ref\dataTypeTest.dll
+D:\git\Algorithm\test\dataTypeTest\obj\Debug\net6.0\dataTypeTest.pdb
+D:\git\Algorithm\test\dataTypeTest\obj\Debug\net6.0\dataTypeTest.genruntimeconfig.cache
