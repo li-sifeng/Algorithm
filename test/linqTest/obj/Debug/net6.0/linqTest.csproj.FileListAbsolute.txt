@@ -1,0 +1,15 @@
+D:\git\Algorithm\test\linqTest\bin\Debug\net6.0\linqTest.exe
+D:\git\Algorithm\test\linqTest\bin\Debug\net6.0\linqTest.deps.json
+D:\git\Algorithm\test\linqTest\bin\Debug\net6.0\linqTest.runtimeconfig.json
+D:\git\Algorithm\test\linqTest\bin\Debug\net6.0\linqTest.dll
+D:\git\Algorithm\test\linqTest\bin\Debug\net6.0\ref\linqTest.dll
+D:\git\Algorithm\test\linqTest\bin\Debug\net6.0\linqTest.pdb
+D:\git\Algorithm\test\linqTest\obj\Debug\net6.0\linqTest.csproj.AssemblyReference.cache
+D:\git\Algorithm\test\linqTest\obj\Debug\net6.0\linqTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\Algorithm\test\linqTest\obj\Debug\net6.0\linqTest.AssemblyInfoInputs.cache
+D:\git\Algorithm\test\linqTest\obj\Debug\net6.0\linqTest.AssemblyInfo.cs
+D:\git\Algorithm\test\linqTest\obj\Debug\net6.0\linqTest.csproj.CoreCompileInputs.cache
+D:\git\Algorithm\test\linqTest\obj\Debug\net6.0\linqTest.dll
+D:\git\Algorithm\test\linqTest\obj\Debug\net6.0\ref\linqTest.dll
+D:\git\Algorithm\test\linqTest\obj\Debug\net6.0\linqTest.pdb
+D:\git\Algorithm\test\linqTest\obj\Debug\net6.0\linqTest.genruntimeconfig.cache
