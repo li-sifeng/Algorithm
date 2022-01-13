@@ -19,7 +19,7 @@ namespace FibonacciTest
                 return FibonacciFun(n-1) + FibonacciFun(n-2);
             }
         }
-        public static void Main(string[] args)
+        static void Main(string[] args)
         {
             Console.WriteLine("Please enter a number:");
             string? input = Console.ReadLine();

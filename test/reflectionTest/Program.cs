@@ -5,7 +5,7 @@ namespace MyTest
 {
     public class MyTestClass
     {
-        public static void Main(string[] args)
+        static void Main(string[] args)
         {
             foreach (var r in Assembly.GetEntryAssembly().GetReferencedAssemblies())
             {

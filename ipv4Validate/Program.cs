@@ -42,7 +42,7 @@ namespace MyTestCode
             }
             return true;
         }
-        public static void Main(string[] args)
+        static void Main(string[] args)
         {
             Console.WriteLine("Please input an IPV4 Address");
             string? ipv4 = Console.ReadLine();

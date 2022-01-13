@@ -4,7 +4,7 @@ namespace MyOSDetection
 {
     public class OSDetectionTest
     {
-        public static void Main(string[] args)
+        static void Main(string[] args)
         {
             if (OperatingSystem.IsWindows())
             {

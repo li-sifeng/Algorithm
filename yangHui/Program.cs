@@ -4,7 +4,7 @@ namespace Yanghui
 {
     public class yanghui
     {
-        public static void Main(string[] arg)
+        static void Main(string[] arg)
         {
             int n = 0;
             while (0 == n){

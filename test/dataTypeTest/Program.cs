@@ -4,7 +4,7 @@ namespace DataTypeTest
 {
     public class MyDataTypeTest
     {
-        public static void Main(string[] args)
+        static void Main(string[] args)
         {
             Console.WriteLine($"[int] Type valid range is {int.MinValue} ~ {int.MaxValue}");
             Console.WriteLine($"[long] Type valid range is {long.MinValue} ~ {long.MaxValue}");
